@@ -1,0 +1,764 @@
+PYTHON STUFF
+https://www.the-cca.org/python-level-1/
+
+
+WEBD FROM BEGINNER TO EXPERT
+https://www.commonlounge.com/discussion/4e71c89e10f145a882ae8f9ead1caf82?r=qp
+
+
+WORKING WITH JAVASCRIPT CLASSES-3 MISTAKES TO AVOID
+https://dzone.com/articles/working-with-javascript-classes3-mistakes-to-avoid
+
+
+17 POPULAR JAVA FRAMEWORKS: PROS, CONS, AND MORE
+https://dzone.com/articles/17-popular-java-frameworks-pros-cons-and-more-part
+
+
+BOOTSTRAP CHEATSHEETS
+https://hackerthemes.com/bootstrap-cheatsheet/
+
+
+INTRODUCTION TO PANDAS AND OTHER LIBRARIES
+https://youtu.be/a9UrKTVEeZA
+
+
+CUSTOM DATA STRUCTURES
+https://www.geeksforgeeks.org/create-customized-data-structure-evaluates-functions-o1/
+
+
+ROADMAP TO ML
+https://youtu.be/MOdlp1d0PNA
+
+
+IMPORTANT PDFS AND CHEATSHEETS
+https://drive.google.com/folderview?id=1eZdl12q84kLXRnpbwgR-0tGC2T57wt1H
+
+
+TIC TAC TOE USING MINMAX ALGORITHM
+https://github.com/thedevelopersanjeev/Artificial_Intelligence_in_Java/tree/master/src/tictactoe
+
+
+CREATE WINDOWS SERVICES IN C#
+https://dzone.com/articles/create-windows-services-in-c
+
+
+A COOL TRICK IN KOTLIN
+https://dzone.com/articles/learning-kotlin-return-when
+
+
+XAMARIN FORMS FOR ANDROID DEVELOPERS
+https://dzone.com/articles/introduction-to-xamarinforms-for-android-developer
+
+
+EQUIVALENTS IN PYTHON AND JAVASCRIPT
+https://djangotricks.blogspot.com/2018/07/equivalents-in-python-and-javascript-part-4.html
+
+
+HIDING SOURCE CODE OF A WEBSITE
+https://www.quora.com/How-can-I-hide-my-websites-source-code-and-prevent-anyone-from-viewing-page-source/answer/Frank-Taylor-5?share=5c5fcc1e&srid=t6466
+
+
+ADOBE DAILY CREATIVE CHALLENGE PLAYLIST
+https://www.youtube.com/playlist?list=PLD8AMy73ZVxWSBuT0LPGxgDWDnT0h5JTb
+
+
+CSS BORDER-IMAGE
+https://dzone.com/articles/css-border-image
+
+
+SELF-DRIVING FUNDAMENTALS
+https://in.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419?utm_source=linkedin-us&utm_medium=social&utm_campaign=apollo
+
+
+GIT TUTORIALS PLAYLIST
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
+
+
+GAME DEVELOPMENT PROGRAMMING LANGUAGES
+https://www.technotification.com/2018/07/programming-languages-for-game-development.html/amp
+
+
+GENERATING RANDOM DATA IN PYTHON
+https://realpython.com/python-random/
+
+
+REAL-TIME HUMAN POSE RECOGNITION IN PARTS FROM A SINGLE DEPTH IMAGE
+https://www.microsoft.com/en-us/research/publication/real-time-human-pose-recognition-in-parts-from-a-single-depth-image/
+
+
+RANDOM FOREST CLASSIFIER - PRE-REQUISITE FOR READING THE ABOVE PAPER
+https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
+
+
+WEB PUSH NOTIFICATIONS
+https://maxtraffic.com/web-push-notifications/
+
+
+BUSINESS ANALYTICS WITH R
+https://www.udemy.com/business-analytics-with-r/
+
+
+13 MISTAKES TO AVOID FOR FRESHER DATA-SCIENTIST
+https://www.analyticsvidhya.com/blog/2018/07/13-common-mistakes-aspiring-fresher-data-scientists-make-how-to-avoid-them/
+
+
+CSS BOX SHADOW
+https://dzone.com/articles/unlocking-css-box-shadow
+
+
+BUILDING BETTER TEST DATA WITH SQL PROVISION
+https://dzone.com/articles/building-better-test-data-with-sql-provision
+
+
+WHAT IS JSX?
+https://dzone.com/articles/what-is-jsx-kentcdodds
+
+
+TUTORIAL ON TRIE AND EXAMPLE PROBLEMS
+https://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems
+
+
+CODING MADE SIMPLE
+https://www.youtube.com/user/tusharroy2525
+
+
+NODE.JS & EXPRESS
+https://youtu.be/sB3acNJeNKE
+
+
+TENSORFLOW TUTORIALS
+https://www.tensorflow.org/tutorials/
+
+
+TENSORFLOW AND ANDROID
+https://firebase.google.com/docs/ml-kit/android/use-custom-models
+
+
+DRIVE FOLDER
+https://drive.google.com/folderview?id=1x29dIy89p-c-b1L9BbhwgoTHDNiaMz8W
+
+
+UDACITY QUICK LINKS
+http://classroom.udacity.com
+
+
+NANODEGREE LINK
+https://github.com/mikesprague/udacity-nanodegrees
+
+
+GUIDE ON OS
+https://github.com/tuhdo/os01&hl=en-IN
+
+
+TENSORFLOW AND ANDROID
+https://firebase.google.com/docs/ml-kit/android/use-custom-models
+
+
+TEXT EDITOR ON REACT
+https://medium.com/@wesharehoodies/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2
+
+
+ES5 V/S ES6
+https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc
+
+
+A GUIDE TO ARRAYS IN JAVA
+https://dzone.com/articles/a-guide-to-arrays-in-java-language
+
+
+LIST OF INTERNSHIP PROGRAMS
+https://wiki.metakgp.org/w/List_of_internship_programs
+
+
+PYTHON CODE TO MULTIPLY OCTONIONS AND SEDENIONS
+https://dzone.com/articles/python-code-to-multiply-octonions-and-sedenions
+
+
+CREATING NODE ADDONS WITH C++ AND BAZEL
+http://www.syntaxsuccess.com/viewarticle/creating-node-addons-with-c-plus-plus-and-bazel
+
+
+EVOLUTIONARY ALGORITHM OUTPERFORMS DEEP-LEARNING MACHINES AT VIDEO GAMES
+https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/amp/
+
+
+HOW TO APPROACH MACHINE LEARNING PROBLEMS?
+https://www.toptal.com/machine-learning/machine-learning-problems
+
+
+5 BEST FREE CSS TUTORIALS FOR WEB DESIGNERS AND DEVELOPERS
+https://www.technotification.com/2018/07/css-tutorials-websites-web-designers.html
+
+
+WHAT IS REACT?
+https://dzone.com/articles/what-is-react
+
+
+STEP BY STEP PROCESS OF HOW I BECAME A MACHINE LEARNING EXPERT IN 10 MONTHS
+https://www.analyticsvidhya.com/blog/2018/07/mystory-became-a-machine-learning-expert-10-months/
+
+
+HOW TO USE JAVA STREAM COLLECTORS?
+https://dzone.com/articles/java-stream-collectors
+
+
+DL FOR SOUND CLASSIFICATION
+https://analyticsindiamag.com/using-deep-learning-for-sound-classification-an-in-depth-analysis/
+
+
+SOME DL APPLICATION
+VIDEO 1
+https://m.youtube.com/watch?v=Bui3DWs02h4
+
+
+VIDEO 2
+https://m.youtube.com/watch?v=hPKJBXkyTKM
+
+
+HOW TO MANAGE DYNAMISM IN JAVA?
+https://dzone.com/articles/managing-dynamism-in-java
+
+
+TELUSKO LEARNINGS
+https://www.youtube.com/user/javaboynavin
+
+
+BUCKY'S C++
+https://m.youtube.com/playlist?list=PLAE85DE8440AA6B83
+
+
+PYTHON NOTES
+https://drive.google.com/folderview?id=1Zsz9gR-jNs8Gc81vW_iZi5D5AUm3MHcx
+
+
+OPEN SOURCE
+https://github.com/abhishekalbert/a-copy-of-slack-site
+
+
+PYTHON MATERIAL FOR BEGINNERS
+LINK 1
+https://www.salewebdesign.com/python-complete-boot-camp-course-free-download/
+
+
+LINK 2
+https://www.geeksbro.com/?m=1
+
+
+PYTHON GUI COURSE
+https://www.udemy.com/python-with-tkinter-basics-advanced-build-2-projects-l/
+
+
+INTRODUCING PYTHON 3.7'S DATACLASSES
+https://www.linuxjournal.com/content/introducing-python-37s-dataclasses
+
+
+
+
+OPEN SOURCE - NODE WEB SERVER
+https://github.com/czgdp1807/node-web-server
+
+
+INTRODUCTION | ML UNIVERSAL GUIDES
+https://developers.google.com/machine-learning/guides/text-classification/
+
+
+
+
+DATA TRANSFER PROJECT – AN OPEN SOURCE INITIATIVE FOR DATA PORTABILITY
+https://www.technotification.com/2018/07/data-transfer-project-open-source.html
+
+
+DEPENDENCY INJECTION: PYTHON
+https://dzone.com/articles/dependency-injection-python-1
+
+
+HELP WITH DYNAMIC PROGRAMMING
+https://codeforces.com/blog/entry/60797
+
+
+BUDDYCSS: A NEW CSS FRAMEWORK
+https://www.catswhocode.com/blog/buddycss-a-new-css-framework-for-people-who-love-making-websites
+
+
+IOS APP DEVELOPMENT
+https://www.raywenderlich.com/200138/updated-course-your-first-ios-app
+
+
+A BEGINNER'S GUIDE TO AI: NATURAL LANGUAGE PROCESSING
+http://flip.it/SadZAA
+
+
+PENETRATION TESTING: A HANDS-ON INTRODUCTION TO HACKING
+https://g.co/kgs/AK6wbh
+
+
+10 BEST ONLINE RESOURCES TO LEARN JAVASCRIPT PROGRAMMING
+https://www.technotification.com/2018/07/10-resources-to-learn-javascript.html
+
+
+DJANGO MATERIAL
+VIDEO
+https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
+
+
+LINK
+https://www.commonlounge.com/discussion/8053bde657804a6b9135c0d781c9d2c7/main?ref=link-user-share-449df9b1ac834f3793ba8cb41915ce26
+
+
+DOWNLOADING ECLIPSE
+VIDEO
+https://youtu.be/CE8UIbb_4iM
+
+
+LINK
+https://www.eclipse.org/downloads
+
+
+STATISTICS COURSE
+https://drive.google.com/open?id=1KNXynRRyV_p1hh0a0ZCrAHqijJdw4lNW
+
+
+ARDUINO MATERIAL
+LINK
+https://www.makerspaces.com/arduino-uno-tutorial-beginners/
+
+
+DRIVE FOLDER
+https://drive.google.com/folderview?id=1QffztUdLt10OHGsvhyV3zVxCrTxNpIVq
+
+
+IN WHAT SEQUENCE SHOULD ONE LEARN WEB PROGRAMMING? BY JASON MARTIN
+https://www.quora.com/In-what-sequence-should-one-learn-web-programming/answer/Jason-Martin-168?share=183311a9&srid=t6466
+
+
+5 WEBSITES TO LEARN CODING IN JAVA
+https://javarevisited.blogspot.com/2018/07/top-5-websites-to-learn-coding-in-java.html
+
+
+CSS TRICKS
+https://css-tricks.com/sometimes-sizes-is-quite-important/
+
+
+ALGORITHMS AND DATA STRUCTURES IN C++
+https://www.udemy.com/algorithms-and-data-structures-in-c-coding-interview/?couponCode=GOODGUY2
+
+
+AUTOMATE THE BORING STUFF
+https://automatetheboringstuff.com
+
+
+C++ GRAPHICS USING GRAPHICS.H
+https://www.youtube.com/playlist?list=PL5UFsTza4wWSNhe0xuO6ELw7ORU-UHNDO
+
+
+IMPORTANT DATA STRUCTURES CODING INTERVIEW
+ https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
+
+
+THEORY OF COMPUTATION
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
+
+
+WHY CAN YOU HAVE MILLIONS OF GOROUTINES BUT ONLY THOUSANDS OF JAVA THREADS?
+https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/
+
+
+COMPUTER ARCHITECTURE
+https://drive.google.com/folderview?id=1TA0KJ-dj5NxeGjB8VdvGSfUApBVOleUD
+
+
+LEARN GIT COMMAND WITH PRACTICAL EXAMPLES ON LINUX
+https://www.linuxtechi.com/learn-git-command-examples-linux-part-1/
+
+
+DEBUGGER TUTORIALS
+C
+https://blogs.msdn.microsoft.com/vcblog/2017/06/23/c-tutorial-debugging-overview/
+
+
+C++
+http://www.learncpp.com/cpp-tutorial/111-debugging-your-program-stepping-and-breakpoints/
+
+
+TWO POINTER TECHNIQUE
+https://www.geeksforgeeks.org/two-pointers-technique/
+
+
+ADVANCED TOPICS IN C
+https://drive.google.com/folderview?id=1Zzvmgn0rL_2uAR0tyZ82Xqj7idd8LYo1
+
+
+KEYLOGGER FROM SCRATCH FOR WINDOWS
+https://www.udemy.com/how-to-create-an-advanced-keylogger-from-scratch-for-windows/
+
+
+DEEP LEARNING COURSES
+COURSERA
+https://www.coursera.org/specializations/deep-learning
+
+
+UDACITY
+https://in.udacity.com/course/deep-learning--ud730-india
+
+
+LIST OF DOS COMMANDS
+https://www.lifewire.com/dos-commands-4070427
+
+
+PROGRAMMING IN C++
+NPTEL LECTURES
+https://www.youtube.com/playlist?list=PL0gIV7t6l2iIsR55zsSgeiOw9Bd_IUTbY
+
+
+OOP IN C++
+WEB PAGE
+https://www.studytonight.com/cpp/cpp-and-oops-concepts.php
+
+
+VIDEOS
+https://youtu.be/ZOKLjJF54Xc
+
+
+OOP IN PYTHON
+https://youtu.be/iyXyxvs-544
+
+
+REINFORCEMENT LEARNING
+https://youtu.be/-GkwGSYOW5A
+
+
+AMAZON INTERVIEW EXPERIENCE
+https://www.geeksforgeeks.org/amazon-interview-experience/
+
+
+WEBSITE USING C
+THE COMPLETE GUIDE TO THE KOTLIN LANGUAGE 
+https://www.udemy.com/hello-kotlin/
+
+
+PROS AND CONS OF FUNCTIONAL PROGRAMMING
+https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2
+
+
+TOP 5 TENSORFLOW AND MACHINE LEARNING COURSES
+https://javarevisited.blogspot.com/2018/08/top-5-tensorflow-and-machine-learning-courses-online-programmers.html
+
+
+ALL TECHNICAL LANGUAGES LINKS A TO Z
+https://github.com/czgdp1807/resourcesandproblems/blob/master/courses-list.md
+
+
+FUN PROJECTS
+SEE YOURSELF IN WEBCAM USING PYTHON 3
+https://www.roytuts.com/see-yourself-in-webcam-using-python/
+
+
+5 IMPORTANT OPEN-SOURCE DEVOPS TOOLS FOR AUTOMATION
+https://dzone.com/articles/5-important-open-source-devops-tools-for-automatio
+
+
+MICROSOFT AZURE NOTEBOOK
+https://notebooks.azure.com/
+
+
+PY2EXE
+https://en.m.wikipedia.org/wiki/Py2exe
+
+
+ERROR HANDLING AND STD::OPTIONAL
+https://dzone.com/articles/error-handling-and-stdoptional
+
+
+TWITTER SCRAPER
+https://github.com/taspinar/twitterscraper/tree/master/twitterscraper
+
+
+BOOST LIBRARY
+https://www.boost.org
+
+
+GUIDE TO INSTALL TENSORFLOW IN UBUNTU 18.04
+https://medium.com/codezillas/step-by-step-guide-to-install-tensorflow-gpu-on-ubuntu-18-04-lts-6feceb0df5c0
+
+
+C++ MATERIAL
+https://csegeek.com/csegeek/view/tutorials/cpp_lang/cpp_intro.php
+
+
+CRC CARDS
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
+
+
+EXCEPTION HANDLING
+https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm
+
+
+TF-IDF
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+
+SIEVE OF ERATOSTHENES
+https://github.com/Kartikei-12/algorithm/tree/master/cpp/sieve-of-eratosthenes
+
+
+DJANGO TUTORIAL BY SENTDEX FOR BEGINNERS
+https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+
+NPTEL COURSE ON CRYPTOLOGY
+https://nptel.ac.in/courses/106107155/
+
+
+IMPORTANT CROSS VALIDATION TECHNIQUES
+https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
+
+
+BLOCKCHAIN MATERIAL
+http://hackernoon.com/learn-blockchains-by-building-one-117428612f46?source=userActivityShare-3ae8a757ed76-1535630852
+
+
+MONTREAL ARTIFICIAL INTELLIGENCE
+https://montrealartificialintelligence.com/academy/
+
+
+DYNAMIC PROGRAMMING PREPARATION
+https://www.interviewbit.com/tutorial/dynamic-programming-dp-introduction/
+
+
+INTRODUCTION TO DATA STRUCTURES FOR INTERVIEWS
+LINK 1
+https://frontendmasters.com/courses/data-structures-interviews/
+
+
+LINK 2
+https://www.udemy.com/learn-data-structure-algorithms-with-java-interview/
+
+
+GOLDMANSACHS INTERVIEW PREPARATION
+https://www.geeksforgeeks.org/goldman-sachs-interview-preparation/
+
+
+HOW TO INSTALL VIRTUALBOX IN WINDOWS 10
+https://youtu.be/63_kPIQUPp8
+
+
+C & C++
+C++ PROGRAMMING VIDEO TUTORIALS FOR BEGINNERS
+https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+
+
+THE COMPLETE C DEVELOPER COURSE - BUILD 7 EXCITING PROJECTS
+https://www.udemy.com/the-complete-c-developer-course-build-7-exciting-projects/
+
+
+WEB & APP DEVELOPMENT
+THE COMPLETE WEB DEVELOPMENT BOOTCAMP
+https://www.udemy.com/web-development-bootcamp/
+
+
+LEARN HTML AND CSS
+http://www.programmingbuddy.club/2018/08/learn-html-and-css-from-scratch-udemy.html
+
+
+HTML5
+https://drive.google.com/folderview?id=1fnT8kBYKrBzSx0BPLZ6haiI9MLjwWQHd
+
+
+ANDROID DEVELOPER FUNDAMENTALS
+https://developer.android.com/courses/fundamentals-training/overview-v2
+
+
+THE 5 BEST MACHINE LEARNING GITHUB REPOSITORIES & REDDIT THREADS FROM AUGUST 2018
+https://www.analyticsvidhya.com/blog/2018/09/best-machine-learning-github-repositories-reddit-threads-august-2018/
+
+
+GSOC PREPARATION
+https://www.quora.com/How-do-I-prepare-for-GSOC-2019
+
+
+COMPUTER SCIENCE ADVENTURES
+https://drive.google.com/file/d/0Bx8xQKVEnHvKTTNsUEFhbDdMZm8/view?usp=drivesdk
+
+
+DATA STRUCTURES
+https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
+
+ADOBE RESEARCH
+https://research.adobe.com/adobe-india-women-in-technology-scholarship/
+
+
+THE OPEN SOURCE DATA SCIENCE MASTERS
+http://datasciencemasters.org/
+
+
+DATA STRUCTURES AND PROGRAMMING LANGUAGES QUESTIONS
+http://houseofbots.com/news-detail/3623-4-50-data-structure-algorithms-and-programming-languages-interview-questions-for-programmers
+
+
+WEB DEVELOPMENT
+BOOTSTRAP4 TUTORIALS
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+
+VIDEOS
+LINK 1
+https://www.youtube.com/playlist?list=PLRtjMdoYXLf47brThg9-nTj8HSq8cQ0ND
+
+
+LINK 2
+https://www.youtube.com/watch?v=9cKsq14Kfsw
+
+
+JAVASCRIPT
+ https://www.youtube.com/watch?v=PODgPW-hbfU
+
+
+HTML5 & CSS3
+ https://www.youtube.com/user/TechGuyWeb
+
+
+DATA STRUCTURES AND ALGORITHMS
+BOOKS
+http://houseofbots.com/news-detail/3684-4-top-10-algorithm-data-structure--programming-language-books-every-programmer-should-read
+
+
+DATA SCIENCE AND ARTIFICIAL INTELLIGENCE
+MACHINE LEARNING GITHUB REPOSITORIES
+https://www.analyticsvidhya.com/blog/2018/10/best-machine-learning-github-repositories-reddit-threads-september-2018/
+
+
+ML ALGORITHMS TUTORIAL
+https://www.commonlounge.com/discussion/55c98312f1da4c9aad25dc378f6cc727?ref=digest&user=85b2d90f5c2140ed91bbe3c00dc21687
+
+
+WEB & APP DEVELOPMENT
+DJANGO TUTORIALS
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+
+JRUBY
+https://www.youtube.com/user/RailscastsReloaded
+
+
+MISCELLANEOUS
+BINARY EXPLOITATION
+LINK 1
+https://ctf101.org/binary-exploitation/overview/
+
+
+LINK 2
+http://liveoverflow.com
+
+
+DEEP LEARNING & MACHINE LEARNING
+NEURAL NETWORKS
+https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/
+
+
+ML IN PYTHON
+http://houseofbots.com/news-detail/3802-4-how-hitchhikers-guide-workes-for-machine-learning-in-python
+
+
+APPROACHING ML
+http://www.houseofbots.com/news-detail/3812-1-5-things-that-will-help-you-climb-the-ladder-of-machine-learning
+
+
+DEVELOPMENT
+ANDROID
+https://www.udemy.com/android-with-retrofit-2-integrating-with-json-restful-apis/
+
+
+CSS
+https://dev.to/abdelrahman3d/quick-css-quiz-5-3gd5
+
+
+SOCKET PROGRAMMING IN C++
+https://www.codeproject.com/Articles/1264257/Socket-Programming-in-Cplusplus-using-boost-asio-T
+
+
+MISCELLANEOUS
+MAJOR PROGRAMMING LANGUAGES
+https://www.technotification.com/2018/10/courses-major-programming-languages.html
+
+
+OPENCV AUTOMATION
+LINK 1
+https://www.life2coding.com/convert-image-frames-video-file-using-opencv-python/
+
+
+LINK 2
+https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames
+
+
+INSTALLING XILINX
+https://github.com/casper-astro/mlib_devel/wiki/How-to-install-Xilinx-ISE
+
+
+DEEP LEARNING & MACHINE LEARNING
+DYNAMIC PROGRAMMING IN REINFORCEMENT LEARNING
+https://youtu.be/fAGgZrGZRsc
+
+
+BEST TUTORIALS FOR REFERENCING MACHINE LEARNING
+http://adventuresinmachinelearning.com/
+
+
+INSTALLING CAFFE
+http://caffe.berkeleyvision.org/install_apt.html
+
+
+COMMON ISSUES WHILE INSTALLING CAFFE
+LINK 1
+https://gist.github.com/wangruohui/679b05fcd1466bb0937f#hack-cuda-to-support-gcc-5
+
+
+LINK 2
+https://askubuntu.com/questions/960238/nvcc-fatal-unsupported-gpu-architecture-compute-20
+
+
+MISCELLANEOUS
+OPENGL
+https://learnopengl.com/Getting-started/OpenGL
+
+
+A PAPER ON NEGATIVE FACTORIAL
+https://drive.google.com/file/d/1k-_jUbIUFfPQuEdJet7bnXkXzwAUEkml/view?usp=drivesdk
+
+
+MARYAM MIRZAKHANI
+https://drive.google.com/file/d/1AqLwtsUx0KdiqrTiL4zLIndSoRaguomD/view?usp=drivesdk
+
+
+DATA STRUCTURES AND ALGORITHMS
+LIST OF FUNDAMENTAL DATA STRUCTURES FOR BEGINNERS
+http://codeforces.com/blog/entry/46464
+
+
+15 ALGORITHMS IN 6 MINUTES
+https://youtu.be/kPRA0W1kECg
+
+
+SERIES OF LECTURES ON ALGORITHMS
+https://www.youtube.com/playlist?list=PLQXxpYpH2YWs52ywNXTzqlHKhwA20FVKQ
+
+
+DEEP LEARNING & MACHINE LEARNING
+CONVEX OPTIMIZATION
+https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
+
+
+DEVELOPMENT
+WHAT MAKES A GOOD DEVELOPER?
+https://jaredthenerd.com/2013/05/What-Makes-A-Good-Developer/
+
+
+ANDROID ETHICAL HACKING COURSE
+https://www.udemy.com/share/100DaWA0YcdFdXR3w=/
+
+
+OPEN SOURCE
+MY PET SHOP
+https://github.com/abhishekalbert/my-pet-shop
+
+
